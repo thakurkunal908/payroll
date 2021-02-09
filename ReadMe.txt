@@ -10,6 +10,7 @@ step 3) In the navigation bar of the website go to setting and change password.
 
 Here I am Adding some screenshots of my work
 
+
 ![Login Page](https://github.com/thakurk908/payroll/blob/master/screencapture-localhost-8080-payroll-2020-11-15-19_13_35.png)
 ![Home Page](https://github.com/thakurk908/payroll/blob/master/screencapture-localhost-8080-payroll-index-php-2020-11-15-19_15_49.png)
 ![Add Employee Page](https://github.com/thakurk908/payroll/blob/master/screencapture-localhost-8080-payroll-add-employee-php-2020-11-15-19_16_33.png)
